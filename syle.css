@@ -145,6 +145,7 @@ body{
 .section7 .container .text{
     text-align: center;
     padding-bottom: 40px;
+    padding-top:30px;
 }
 .section7 .container .text h1{
     font-weight: bolder;
