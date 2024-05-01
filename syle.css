@@ -14,8 +14,9 @@ body{
 }
 .navbar .container .navbar-brand{
     color: white;
-    margin-left: 20px;
+/*     margin-left: 20px; */
     font-weight: bolder;
+    font-size:30px;
 }
 .navbar .container .navbar-nav .nav-link{
     color: white !important;
@@ -34,8 +35,8 @@ body{
 }
 .section .container h1{
     text-align: center;
-    padding-top: 130px;
-    font-size: 48px;
+    padding-top: 172px;
+    font-size: 49px;
     color: white;
     font-weight: bolder;
 }
